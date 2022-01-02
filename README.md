@@ -1,5 +1,4 @@
-### Hi there 👋
-### I'm yamato
+### Hi there 👋 I'm yamato
 
 <!--
 **yamato0811/yamato0811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
