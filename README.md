@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=yamato0811)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yamato0811&title=Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yamato0811&title=Joined,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 [![](https://raw.githubusercontent.com/yamato0811/yamato0811/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
