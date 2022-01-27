@@ -1,5 +1,12 @@
 ### Hi there 👋😎
-私は日本人です
+
+- I'm Japanese
+- 私は日本人です
+- 我是日本人
+- Soy japonés
+- Я японец
+- 나는 일본인
+- أنا ياباني
 
 <!--
 **yamato0811/yamato0811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
